@@ -26,7 +26,7 @@ def binary_search(list1, element):
     if result_ok:
         print(f'Элемент {element} найден в позиции: {pos}.')
     else:
-        print(f'Эдемент {element} не найден.')
+        print(f'Элемент {element} не найден.')
 
 
 unsorted_list = [23, 35, 2, 12, 45, 13, 7]
